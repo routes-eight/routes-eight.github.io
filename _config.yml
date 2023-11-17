@@ -1,9 +1,8 @@
-title: EIGHT ROUTES
-author: Jeong GeunHo
+title: EIGHTROUTES
+author: JeongGeunHo
 url: https://soundcloud.com/eightroutes
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
-
+  soundcloud.com/eightroutes 어린아이, I Don't Wanna, 925, 아직도, BlackOut
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
