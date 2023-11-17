@@ -2,7 +2,7 @@ title: EIGHTROUTES
 author: JeongGeunHo
 url: https://soundcloud.com/eightroutes
 description: > # description of the site (multiple lines allowed)
-  soundcloud.com/eightroutes 어린아이, I Don't Wanna, 925, 아직도, BlackOut
+  어린아이, I Don't Wanna, 925, 아직도, BlackOut
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
